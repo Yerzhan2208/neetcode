@@ -3,7 +3,10 @@ name: Update README Metrics
 on:
   push:
     branches:
-      - main  # Change to master if your default branch is named master
+      - main  # Or master, depending on your default branch
+
+permissions:
+  contents: write
 
 jobs:
   build:
