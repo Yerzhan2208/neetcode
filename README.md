@@ -1,8 +1,14 @@
-# NeetCode 150 Progress Tracker
 
-Welcome to my NeetCode tracking repository! This README updates automatically when I push new solutions from Obsidian.
+### 📊 Total Progress: **1** Problems Mastered
 
-## 🛠️ Tech Stack
-- Obsidian (Local Note-taking)
-- Python (Automation)
-- GitHub Actions (CI/CD)
+| Category | Progress Bar | Solved |
+| :--- | :--- | :--- |
+| 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | 1 / 2 |
+
+
+### 📊 Total Progress: **1** Problems Mastered
+
+| Category | Progress Bar | Solved |
+| :--- | :--- | :--- |
+| 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | 1 / 2 |
+
