@@ -28,5 +28,6 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add README.md
-        git diff-index --quiet HEAD || git commit -m "docs: automatically update readme progress metrics"
+        # 🔑 THE FIX IS ADDING [skip ci] TO THE COMMIT MESSAGE BELOW
+        git diff-index --quiet HEAD || git commit -m "docs: automatically update readme progress metrics [skip ci]"
         git push
