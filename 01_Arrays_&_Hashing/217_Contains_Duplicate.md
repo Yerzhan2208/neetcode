@@ -4,7 +4,7 @@ title:
 difficulty: 🟢 Easy
 pattern:
 leetcode_url:
-status: 🟥 Todo / 🟨 Reviewing / 🟩 Mastered
+status: 🟩 Mastered
 time_complexity:
 space_complexity:
 date_created: 2026-06-22
