@@ -1,8 +1,14 @@
-# NeetCode 150 Progress Tracker
 
-Welcome to my NeetCode tracking repository!
+### 📊 Total Progress: **3** Problems Mastered
 
-## 🛠️ Tech Stack
-- Obsidian
-- Python
-- GitHub Actions
+| Category | Progress Bar | Solved |
+| :--- | :--- | :--- |
+| 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 3 / 3 |
+
+
+### 📊 Total Progress: **3** Problems Mastered
+
+| Category | Progress Bar | Solved |
+| :--- | :--- | :--- |
+| 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 3 / 3 |
+
