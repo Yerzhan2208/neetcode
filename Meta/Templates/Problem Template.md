@@ -1,13 +1,13 @@
 ---
-id:
-title:
-difficulty: 🟢 Easy
-pattern:
-leetcode_url:
+id: 
+title: 
+difficulty: 🔴 Hard / 🟡 Medium / 🟢 Easy
+pattern: 
+leetcode_url: 
 status: 🟥 Todo / 🟨 Reviewing / 🟩 Mastered
-time_complexity:
-space_complexity:
-date_created: 2026-06-22
+time_complexity: 
+space_complexity: 
+date_created: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
 ## 🎯 Core Intuition

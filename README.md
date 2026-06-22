@@ -1,12 +1,8 @@
-# NeetCode 150 Roadmap & Progress Tracker
+# NeetCode 150 Progress Tracker
 
-My journey tracking and mastering structural DSA patterns.
+Welcome to my NeetCode tracking repository! This README updates automatically when I push new solutions from Obsidian.
 
-| Pattern             | Progress    | Status          |
-| :------------------ | :---------- | :-------------- |
-| 📁 Arrays & Hashing | 🟩 🟩 ⬜ ⬜ ⬜ | 2 / 9 Completed |
-| 📁 Two Pointers     | ⬜ ⬜ ⬜ ⬜ ⬜   | 0 / 5 Completed |
-
-## 🌟 Featured Solutions Breakdown
-- [Group Anagrams](./01_Arrays_&_Hashing/49_Group_Anagrams.md) - Optimized using a frequency array hashmap key.
-- [Container With Most Water](./02_Two_Pointers/11_Container_With_Most_Water.md) - Two-pointer greedy approach explanation.
+## 🛠️ Tech Stack
+- Obsidian (Local Note-taking)
+- Python (Automation)
+- GitHub Actions (CI/CD)
