@@ -1,5 +1,4 @@
 import os
-import re
 
 def generate_metrics():
     categories = sorted([f for f in os.listdir('.') if os.path.isdir(f) and f[0].isdigit()])
@@ -22,7 +21,6 @@ def generate_metrics():
         
         total_solved += mastered
         
-        # Build progress bar
         pct = (mastered / total * 10) if total > 0 else 0
         bars = "🟩" * int(pct) + "⬜" * (10 - int(pct))
         
@@ -35,25 +33,20 @@ def generate_metrics():
 def update_readme():
     metrics = generate_metrics()
     
-    if not os.path.exists("README.md"):
-        with open("README.md", "w", encoding="utf-8") as f:
-            f.write("# NeetCode 150 Progress Tracker\n\n\n\n")
-
-    with open("README.md", "r", encoding="utf-8") as f:
-        readme = f.read()
-        
-    if "" not in readme or "" not in readme:
-        readme = "# NeetCode 150 Progress Tracker\n\n\n\n" + readme
-        
-    # 🔑 THE FIX: Changed '.*?' to '.*' (Greedy match)
-    # This swallows ALL duplicate tag pairs and collapses them into exactly ONE block.
-    pattern = r".*"
-    replacement = f"\n{metrics}\n"
+    # The exact static content you want on your repository homepage
+    readme_content = (
+        "# NeetCode 150 Progress Tracker\n\n"
+        "Welcome to my NeetCode tracking repository! This dashboard updates automatically.\n\n"
+        f"{metrics}\n"
+        "## 🛠️ Tech Stack\n"
+        "- Obsidian (Local Notes)\n"
+        "- Python (Automation Script)\n"
+        "- GitHub Actions (CI/CD)\n"
+    )
     
-    new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
-    
+    # Write mode ('w') completely overwrites the file. No regex, no tags, no duplicates.
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(new_readme)
+        f.write(readme_content)
 
 if __name__ == "__main__":
     update_readme()
