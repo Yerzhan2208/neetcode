@@ -6,7 +6,7 @@ Welcome to my NeetCode tracking repository! This dashboard updates automatically
 
 | Category | Progress Bar | Solved |
 | :--- | :--- | :--- |
-| 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 2 / 2 |
+| 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ | 2 / 3 |
 
 ## 🛠️ Tech Stack
 - Obsidian (Local Notes)
