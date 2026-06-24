@@ -4,7 +4,7 @@ title: Two Sum
 difficulty: 🟢 Easy
 pattern: Hash Map
 leetcode_url: https://leetcode.com/problems/two-sum/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(n) - iterations can go all over the nums array
 space_complexity: O(n) - Hash Map size depends on the nums length
 date_created: 2026-06-23
@@ -21,7 +21,7 @@ The tricky part was storing the indices of nums values as the dictionary values,
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         d = {}
-        res = []
+        
         for i in range(len(nums)):
             diff = target - nums[i]
             if diff in d:
