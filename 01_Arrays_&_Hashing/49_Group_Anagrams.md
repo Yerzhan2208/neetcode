@@ -5,8 +5,8 @@ difficulty: 🟡 Medium
 pattern: Arrays & Hashing
 leetcode_url: https://leetcode.com/problems/group-anagrams/description/
 status: 🟨 Reviewing
-time_complexity: O(N * KlogK) - N is number of strings, K is the max length of the string. We iterate N times and sorting O(KlogK)
-space_complexity: O(N * K)
+time_complexity: O(n * klogk) - n is number of strings, k is the max length of the string. We iterate n times and sorting O(klogk)
+space_complexity: O(n * k)
 date_created: 2026-06-24
 ---
 
@@ -34,7 +34,7 @@ class Solution:
         return res
 ```
 
-## 🚀 Optimal Solution
+## 🚀 Optimal Solution (Fixed Hash Table)
 
 ### Python Implementation
 ```python
