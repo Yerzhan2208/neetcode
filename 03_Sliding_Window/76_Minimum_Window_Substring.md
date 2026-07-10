@@ -1,7 +1,7 @@
 ---
 id: "76"
 title: Minimum Window Substring
-difficulty: 🔴 Hard / 🟡 Medium / 🟢 Easy
+difficulty: 🔴 Hard
 pattern: Hash Map & Sliding Window
 leetcode_url: https://leetcode.com/problems/minimum-window-substring/description/
 status: 🟨 Reviewing
