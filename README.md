@@ -2,13 +2,13 @@
 
 Welcome to my NeetCode tracking repository! This dashboard updates automatically.
 
-### 📊 Total Progress: **3** Problems Mastered
+### 📊 Total Progress: **7** Problems Mastered
 
 | Category | Progress Bar | Solved |
 | :--- | :--- | :--- |
-| 📁 Arrays & Hashing | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ | 3 / 9 |
-| 📁 Two Pointers | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0 / 5 |
-| 📁 Sliding Window | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0 / 3 |
+| 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | 5 / 9 |
+| 📁 Two Pointers | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 5 |
+| 📁 Sliding Window | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ | 1 / 3 |
 
 ## 🛠️ Tech Stack
 - Obsidian (Local Notes)
