@@ -4,7 +4,7 @@ title: Trapping Rain Water
 difficulty: 🔴 Hard
 pattern: Two Pointers
 leetcode_url: https://leetcode.com/problems/trapping-rain-water/description/
-status: 🟥 Todo / 🟨 Reviewing / 🟩 Mastered
+status: 🟨 Reviewing
 time_complexity: O(n) - the length of the given array
 space_complexity: O(1) - we do not create anything that requires space
 date_created: 2026-07-05

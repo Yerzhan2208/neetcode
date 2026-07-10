@@ -4,7 +4,7 @@ title: Product of Array Except Self
 difficulty: 🟡 Medium
 pattern: Prefix & Suffix
 leetcode_url: https://leetcode.com/problems/product-of-array-except-self/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(n) - length of array
 space_complexity: O(n)
 date_created: 2026-06-25

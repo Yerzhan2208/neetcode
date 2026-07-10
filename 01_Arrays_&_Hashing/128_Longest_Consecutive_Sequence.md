@@ -4,7 +4,7 @@ title: Longest Consecutive Sequence
 difficulty: 🟡 Medium
 pattern: Hash Set
 leetcode_url: https://leetcode.com/problems/longest-consecutive-sequence/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(n) - the length of the given array
 space_complexity: O(n) - the length of the given array
 date_created: 2026-07-04

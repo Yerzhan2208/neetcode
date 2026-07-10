@@ -4,7 +4,7 @@ title: Best Time to Buy and Sell Stock
 difficulty: 🟢 Easy
 pattern: Dynamic Programming
 leetcode_url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(n) - length of array
 space_complexity: O(1) - we do not create anything that requires space
 date_created: 2026-07-06
