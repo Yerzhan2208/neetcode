@@ -8,7 +8,7 @@ Welcome to my NeetCode tracking repository! This dashboard updates automatically
 | :--- | :--- | :--- |
 | 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | 5 / 9 |
 | 📁 Two Pointers | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 5 |
-| 📁 Sliding Window | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ | 1 / 3 |
+| 📁 Sliding Window | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 5 |
 
 ## 🛠️ Tech Stack
 - Obsidian (Local Notes)
