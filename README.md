@@ -9,7 +9,7 @@ Welcome to my NeetCode tracking repository! This dashboard updates automatically
 | 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | 5 / 9 |
 | 📁 Two Pointers | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 5 |
 | 📁 Sliding Window | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 6 |
-| 📁 Stack | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 4 |
+| 📁 Stack | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 5 |
 
 ## 🛠️ Tech Stack
 - Obsidian (Local Notes)
