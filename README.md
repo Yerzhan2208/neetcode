@@ -10,6 +10,7 @@ Welcome to my NeetCode tracking repository! This dashboard updates automatically
 | 📁 Two Pointers | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 5 |
 | 📁 Sliding Window | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 6 |
 | 📁 Stack | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 6 |
+| 📁 Binary Search | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0 / 2 |
 
 ## 🛠️ Tech Stack
 - Obsidian (Local Notes)
