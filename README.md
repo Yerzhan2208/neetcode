@@ -11,6 +11,7 @@ Welcome to my NeetCode tracking repository! This dashboard updates automatically
 | 📁 Sliding Window | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 6 |
 | 📁 Stack | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 6 |
 | 📁 Binary Search | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0 / 7 |
+| 📁 Trees | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0 / 1 |
 
 ## 🛠️ Tech Stack
 - Obsidian (Local Notes)
