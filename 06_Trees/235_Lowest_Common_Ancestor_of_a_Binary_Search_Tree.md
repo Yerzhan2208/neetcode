@@ -12,7 +12,7 @@ date_created: 2026-07-23
 
 ## 🎯 Core Intuition
 If it is the BST, the numbers on the left of the root are smaller than the root, the numbers on the right are larger. So, we can recursively compare if the max value of p and q is smaller than root, we move root to the left child, if the min value of p and q is larger than root, we move root to the right.
-
+Another approach could be iterative
 
 ## 🚀 Optimal Solution
 
