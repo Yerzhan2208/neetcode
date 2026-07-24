@@ -2,12 +2,12 @@
 
 Welcome to my NeetCode tracking repository! This dashboard updates automatically.
 
-### 📊 Total Progress: **12** Problems Mastered
+### 📊 Total Progress: **16** Problems Mastered
 
 | Category | Progress Bar | Solved |
 | :--- | :--- | :--- |
 | 📁 Arrays & Hashing | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 9 / 9 |
-| 📁 Two Pointers | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 5 |
+| 📁 Two Pointers | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 5 / 5 |
 | 📁 Sliding Window | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 6 |
 | 📁 Stack | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1 / 6 |
 | 📁 Binary Search | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0 / 7 |
