@@ -4,7 +4,7 @@ title: Valid Sudoku
 difficulty: 🟡 Medium
 pattern: Hash Map
 leetcode_url: https://leetcode.com/problems/valid-sudoku/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(n * n) - n is the number of rows and columns to iterate
 space_complexity: O(n) - n is the size of all required hash maps
 date_created: 2026-07-02
