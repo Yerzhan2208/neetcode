@@ -4,7 +4,7 @@ title: Two Sum II - Input Array Is Sorted
 difficulty: 🟡 Medium
 pattern: Two Pointers
 leetcode_url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(n) - length of array
 space_complexity: O(1) - we do not create anything that requires space
 date_created: 2026-07-04
