@@ -4,7 +4,7 @@ title: " Encode and Decode Strings"
 difficulty: 🟡 Medium
 pattern: Arrays & Hashing
 leetcode_url: https://leetcode.com/problems/encode-and-decode-strings/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(m+n) - for both encode and decode where m is sum of lengths of strings, n is number of lengths
 space_complexity: O(m+n)
 date_created: 2026-06-25

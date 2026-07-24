@@ -4,7 +4,7 @@ title: Top K Frequent Elements
 difficulty: 🟡 Medium
 pattern: Arrays & Hashing
 leetcode_url: https://leetcode.com/problems/top-k-frequent-elements/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(nlogn) - sorting the dictionary by values
 space_complexity: O(n) - the size of dictionary is the number of elements (unique)
 date_created: 2026-06-24
