@@ -4,7 +4,7 @@ title: Group Anagrams
 difficulty: 🟡 Medium
 pattern: Arrays & Hashing
 leetcode_url: https://leetcode.com/problems/group-anagrams/description/
-status: 🟨 Reviewing
+status: 🟩 Mastered
 time_complexity: O(n * klogk) - n is number of strings, k is the max length of the string. We iterate n times and sorting O(klogk)
 space_complexity: O(n * k)
 date_created: 2026-06-24
